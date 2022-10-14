@@ -1,0 +1,11 @@
+D:\C# Project\Multicast\Multicast\Multicast\bin\Debug\Multicast.exe.config
+D:\C# Project\Multicast\Multicast\Multicast\bin\Debug\Multicast.exe
+D:\C# Project\Multicast\Multicast\Multicast\bin\Debug\Multicast.pdb
+D:\C# Project\Multicast\Multicast\Multicast\obj\Debug\Sender.csproj.AssemblyReference.cache
+D:\C# Project\Multicast\Multicast\Multicast\obj\Debug\Sender.csproj.SuggestedBindingRedirects.cache
+D:\C# Project\Multicast\Multicast\Multicast\obj\Debug\Multicast.Properties.Resources.resources
+D:\C# Project\Multicast\Multicast\Multicast\obj\Debug\Sender.csproj.GenerateResource.cache
+D:\C# Project\Multicast\Multicast\Multicast\obj\Debug\Sender.csproj.CoreCompileInputs.cache
+D:\C# Project\Multicast\Multicast\Multicast\obj\Debug\Multicast.exe
+D:\C# Project\Multicast\Multicast\Multicast\obj\Debug\Multicast.pdb
+D:\C# Project\Multicast\Multicast\Multicast\obj\Debug\Multicast.Sender.resources
